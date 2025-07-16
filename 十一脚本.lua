@@ -6,7 +6,7 @@ function Notify(Title1, Text1, Icon1, Time1)
     Duration = Time1,
   })
 end
-Notify("航天中心", "作者十一", "rbxassetid://17360377302", 3)
+Notify("十一脚本", "作者十一", "rbxassetid://17360377302", 3)
 Notify("永久免费", "祝你玩的开心","rbxassetid://17360377302",3)
 Notify("永久免费", "不好用找作者作者会改的","rbxassetid://17360377302",3)
 Notify("十一脚本", "永久免费","rbxassetid://17360377302",3)
